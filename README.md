@@ -29,7 +29,7 @@ We provide in the corresponding folder:
 - rouge
 - bert-score
 
-Every '''.py''' file has the corresponding running command line.
+Every .py file has the corresponding running command line.
 
 **Note: Because our paper has not been published, we sample an example in the dataset part, the rest files will be released once the paper publication.**
 
