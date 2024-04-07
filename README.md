@@ -12,6 +12,10 @@ The dataset can be divided into three parts.
 - One for Cyber Threat Intelligence (CTI) summarization task.
 - One for Attack Process Summarization (APS) task.
 
+The following table describes the statistics of the CTISum dataset and existing summarization datasets from different domains.
+
+  ![image](./figure/statistic.png)
+
 
 ## Baseline model
 - LLAMA 2 Model
