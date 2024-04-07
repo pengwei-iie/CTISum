@@ -1,4 +1,4 @@
-# LLaMa 2 Model
+# LLAMA 2 Model
 
 Directly setting the "filepath" and "filename" in llamaw.py file:
 - filepath: the path of the testing file.
