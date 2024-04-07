@@ -18,7 +18,7 @@ The following table describes the statistics of the CTISum dataset and existing 
 
 
 ## Baseline model
-- LLAMA 2 Model
+- LLAMA2
 - BART
 - Longformer
 - T5
