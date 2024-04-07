@@ -35,6 +35,6 @@ We provide in the corresponding folder:
 
 Every .py file has the corresponding running command line.
 
-**Note: Because our paper has not been published, we sample an example in the dataset part, the rest files will be released once the paper publication.**
+**Note: Because our paper has not been published, we sample an example in the dataset part, the rest files will be released once the paper publication. More case analyses can be seen in the paper.**
 
 Thanks for the attention.
