@@ -1,0 +1,11 @@
+{
+    "encoder": "bert",
+    "candidate_num": 4,
+    "batch_size": 1,
+    "accum_count": 1,
+    "max_lr": 2e-05,
+    "margin": 0.01,
+    "warmup_steps": 1,
+    "n_epochs": 5,
+    "valid_steps": 10
+}
