@@ -22,7 +22,6 @@ The following table describes the statistics of the CTISum dataset and existing 
 - BART
 - Longformer
 - T5
-- Transformer
 - MatchSum
 - BertSumExt
 
