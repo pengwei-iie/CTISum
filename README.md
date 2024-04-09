@@ -40,5 +40,5 @@ Every .py file has the corresponding running command line.
 Thanks for the attention.
 
 ## Contributor
-- Peng wei 
+- Peng Wei 
 - Ding Junmei 
