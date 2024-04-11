@@ -1,0 +1,1 @@
+1. Initial access via phishing, exploiting vulnerabilities etc. 2. Dridex and/or other malware deployed on endpoints 3. Lateral movement with credential theft and privilege escalation 4. Ransomware deployed across network 5. Data encryption and theft 6. Extortion demands to decrypt files and prevent leak 
