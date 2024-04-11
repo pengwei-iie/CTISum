@@ -35,7 +35,7 @@ We provide in the corresponding folder:
 
 Every .py file has the corresponding running command line.
 
-**Note: Considering the approval process for data opening, we sample an example for reference, the rest files will be released once the paper publication. More case analyses can be seen in the paper.**
+**Note: Considering the approval process for data opening, we sample some examples for reference, the rest files will be released once the paper publication. More case analyses can be seen in the paper.**
 
 Thanks for the attention.
 
