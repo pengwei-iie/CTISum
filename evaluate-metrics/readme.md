@@ -2,4 +2,4 @@ The automatic and human A/B evaluation, like BERTScore and ROUGE-𝑛 (R-𝑛) a
 
 We provide in the corresponding folder:
 - rouge
-- bert-score
+- bert-score 
