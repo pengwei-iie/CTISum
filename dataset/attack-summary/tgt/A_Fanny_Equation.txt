@@ -1,0 +1,1 @@
+ 1. Spread via USB drives using the LNK exploit. 2. Use separate exploit to escalate privileges. 3. Establish persistence and implant backdoor. 4. Exfiltrate reconnaissance data from air-gapped systems via USB. 5. Send commands and additional malware via hidden USB storage. 

@@ -1,0 +1,1 @@
+1. Social engineering via fake LinkedIn profile to lure target to phishing site 2. Target downloads malicious Excel or EXE from phishing site 3. Initial access and execution via macros or shell commands 4. Milan backdoor installed for C2 communication 5. DanBot RAT downloaded for remote access 6. Data exfiltration and further access/spread on network 

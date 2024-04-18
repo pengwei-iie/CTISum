@@ -1,0 +1,1 @@
+ 1. Spear phishing email delivers first stage dropper 2. Dropper installs launcher and main SkinnyBoy implant 3. Implant exfiltrates system info and retrieves final payload 4. Final payload DLL injected into memory 5. Persistent access and control over victim system 

@@ -1,0 +1,1 @@
+ 1. Exploit Exchange/Zoho vulnerabilities to gain access 2. Deliver first stage HyperBro loader 3. Loader installs main HyperBro DLL implant 4. Implant sets persistence, gathers system info, exfiltrates data 5. C2 sends commands and additional malware payloads 6. Further network penetration and data exfiltration 

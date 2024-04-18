@@ -1,0 +1,1 @@
+ 1. Spearphishing emails sent with links to zip files containing malware. 2. Malware makes callback to legitimate looking domain and runs reconnaissance. 3. Custom malware allows remote access, command execution, and data exfiltration. 4. Stolen data can enable access to additional systems and further espionage. 
